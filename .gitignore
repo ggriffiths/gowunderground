@@ -1,0 +1,11 @@
+*.swp
+.pairs
+.DS_Store
+acceptance/kairosdb
+kairosdb
+.idea
+*.iml
+coverage.xml
+gowunderground
+*.coverprofile
+.idea/
